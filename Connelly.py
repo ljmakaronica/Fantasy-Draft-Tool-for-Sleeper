@@ -1,5 +1,20 @@
-#MARKO LJUBOJA
-#This project allows you to 
+'''
+
+
+MARKO LJUBOJA - Connelly.py
+
+
+Named after Tim Connelly, former GM of the Denver Nuggets - Current GM of the Minnesota Timberwolves
+This program allows you to get a ranked list of NBA players. The dataset uses the last complete season (2023-24) to calculate fantasy scores.
+The scoring system below is from my Sleeper league, and can easily be altered to accomodate any league. 
+*****Injury risk was calculated manually, it is not a real stat that the NBA provides****
+Please note that double doubles, triple doubles, 40pt games, and 50pts are also not stats that the NBA provides. 
+The provided excel sheet calculates this by dividing the player's total by their games played.
+
+
+
+'''
+
 
 import pandas as pd
 import numpy as np
