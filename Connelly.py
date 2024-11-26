@@ -1,5 +1,5 @@
 '''
-MARKO LJUBOJA - The Connelly Calculator
+MARKO LJUBOJA - Connelly Calculator
 Named after Tim Connelly, former GM of the Denver Nuggets - Current GM of the Minnesota Timberwolves
 
 This program provides a customizable NBA fantasy score calculator that can incorporate various
@@ -11,7 +11,7 @@ from time import sleep
 
 def welcomeStatement():
     print("\n" + "="*80)
-    print("Welcome to The Connelly Calculator".center(80))
+    print("Welcome to Connelly Calculator".center(80))
     print("Your Advanced NBA Fantasy Basketball Analysis Tool".center(80))
     print("="*80 + "\n")
     sleep(1)
