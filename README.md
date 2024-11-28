@@ -1,4 +1,4 @@
-# NBA Fantasy Calculator (Connelly Calculator)
+# Fantasy Draft Tool For Sleeper (Connelly Calculator)
 A Python-based tool for calculating and ranking NBA players based on fantasy basketball performance.
 
 ## Overview
@@ -6,8 +6,9 @@ Connelly Calculator processes NBA player statistics and generates fantasy basket
 
 ## Files
 * Connelly.py - Main Python script for calculating fantasy scores
-* 2023-24 NBA REGULAR SEASON DATA.xlsx - Excel file containing player statistics for the 2023-24 NBA regular season
-  *Please note that Double Double, Triple Double, 40-Point Game, and 50-Point Game are not actual official NBA per game statistics. If you wish to use a different NBA season, the excel sheet will not come with those.*
+* 2023-24 NBA REGULAR SEASON DATA.xlsx - Excel file containing player statistics for the 2023-24 NBA regular season  
+  *Please note that Double Double, Triple Double, 40-Point Game, and 50-Point Game are not actual official NBA per game statistics.  
+  If you wish to use a different NBA season, the excel sheet will not come with those.*
 
 ## Features
 * Sleeper league fantasy scoring system
